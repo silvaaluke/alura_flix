@@ -1,0 +1,24 @@
+body {
+    color: black;
+    background: white;
+}
+
+header {
+    border-bottom: solid rgb(42, 122, 228);
+    padding: 15px;
+    padding-left: 36px;
+    font-size: 33px;
+    color: rgb(42, 122, 228);
+    font-style: italic;
+}
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+    width: 560px; /* A mesma largura do vídeo */
+    text-align: center; /* Centraliza o texto dentro do `section` */
+}
+
+h1 {
+    margin-bottom: 20px; /* Ajuste a margem inferior conforme necessário */
+}
